@@ -328,6 +328,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.5.1"
+  transformer_page_view_tv:
+    dependency: "direct main"
+    description:
+      name: transformer_page_view_tv
+      sha256: "424db6d9efb81111e095143b37b96015d9f780986836e1e6cae66b9e47fb6828"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.7-nullsafety"
   typed_data:
     dependency: transitive
     description:

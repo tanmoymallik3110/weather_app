@@ -4,7 +4,7 @@ import 'package:weather_app/screens/weather_app.dart';
 
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: WeatherApp(),
+      home: const WeatherApp(),
     );
   }
 }

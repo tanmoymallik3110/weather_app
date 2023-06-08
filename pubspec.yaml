@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_fonts: ^5.0.0
   flutter_svg: ^2.0.6
+  transformer_page_view_tv: ^0.1.7-nullsafety
 
 dev_dependencies:
   flutter_test:
